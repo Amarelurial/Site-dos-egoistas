@@ -14,11 +14,47 @@
     width: 20%;
 }
 
+.bastard-logo{
+    width: 20%;
+    margin: 20px 80px 10px 70px
+}
+.barcha-logo{
+    width: 20%;
+    margin: 20px 120px 10px 70px
+}
+.manshine-city-logo{
+    width: 20%;
+    margin: 20px 90px 10px 50px
+}
+.ubers-logo{
+    width: 20%;
+    margin: 20px 80px 10px 250px
+}
+.pxg-logo{
+    width: 20%;
+    margin: 20px 240px 10px 100px
+}
+
+
 .cabecialio-nome{
-    font-size: 550%;
+    font-size: 541%;
     margin: 33px
 }
 
 .cabecialio-lista{
   margin: 60px 12px
+}
+
+.corpo{
+    background-image: linear-gradient(#ffffff,#1c76eb,#7299ec);
+display: grid;
+}
+
+.times-de-cima{
+    display: flex;
+
+}
+
+.times-de-baixo{
+    display: flex;
 }
