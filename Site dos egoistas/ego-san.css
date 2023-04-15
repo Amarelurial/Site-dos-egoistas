@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecialio {
+    background-color: #01015f;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inicio-lock{
+    width: 20%;
+}
+
+.bastard-logo{
+    width: 20%;
+    margin: 20px 80px 10px 70px
+}
+.barcha-logo{
+    width: 20%;
+    margin: 20px 120px 10px 70px
+}
+.manshine-city-logo{
+    width: 20%;
+    margin: 20px 90px 10px 50px
+}
+.ubers-logo{
+    width: 20%;
+    margin: 20px 80px 10px 250px
+}
+.pxg-logo{
+    width: 20%;
+    margin: 20px 240px 10px 100px
+}
+
+
+.cabecialio-nome{
+    font-size: 541%;
+    margin: 33px
+}
+
+.cabecialio-lista{
+  margin: 60px 12px
+}
+
+.corpo{
+    background-image: linear-gradient(#ffffff,#1c76eb,#7299ec);
+display: grid;
+}
+
+.times-de-cima{
+    display: flex;
+}
+
+.times-de-baixo{
+    display: flex;
+}
+
+.name-bastard{
+    margin: 20px 120px 10px 100px
+}
+.name-barcha{
+    margin: 20px 120px 10px 137px
+}
+.name-manshine{
+    margin: 20px 90px 10px 190px
+}
+.name-ubers{
+    margin: 20px 80px 10px 340px
+}
+.name-pxg{
+    margin: 20px 240px 10px 253px
+}
+.name-cima{
+    display: flex;
+    font-size: 130%;
+    margin: 0 0 30px;
+}
+.name-baixo{
+   display: flex;
+   font-size: 130%;
+   margin: 0 0 50px;
+}
+
+.timess{
+    text-align: center;
+    font-size: 280%;
+    margin: 30px 0px 50px; 
+}
+
+.etc{
+    background-color: #01015f ;
+    color: rgb(240, 254, 163);
+    text-align: center;
+}
